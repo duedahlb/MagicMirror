@@ -33,7 +33,7 @@ Module.register("calendar", {
 		calendars: [
 			{
 				symbol: "calendar",
-				url: "http://www.calendarlabs.com/templates/ical/US-Holidays.ics",
+				url: "https://calendar.google.com/calendar/ical/duedahlb%40gmail.com/private-9a2947671a67e733ac71d19799e68ccb/basic.ics",
 			},
 		],
 		titleReplace: {
